@@ -1,0 +1,17 @@
+{
+  "id": "interfish/first-shot",
+  "id_no": 2426594,
+  "title": "First shot",
+  "code_file": "first-shot.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ]
+}
